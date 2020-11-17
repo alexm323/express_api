@@ -1,0 +1,4 @@
+Things to remember 
+
+1. npm init -y             //Quickly sets up the environment for our new project 
+2. npm i express           //install express
